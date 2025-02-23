@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
+   <img src="https://axiomq.com/wp-content/uploads/2021/12/dot-net_.jpg" alt=".Net" width="80" height="80"/>
 </p>
 
 ### 📊 GitHub Stats
