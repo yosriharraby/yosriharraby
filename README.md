@@ -5,7 +5,7 @@
 - 🔭 I’m a passionate developer focused on programming and problem-solving.
 - 🌱 I’m currently studying Software Engineering at TEK-UP university.
 - 🚀 I’m currently learning Angular / Spring Boot / .NET / Node JS / Python / Docker / Devops .
-- 📫 How to reach me: [your.email@example.com](mailto:yosriharrabi92@gmail.com)
+- 📫 How to reach me: [yosriharrabi92@gmail.com](mailto:yosriharrabi92@gmail.com)
 
 ### 🌐 Connect with me:
 <a href="[https://www.linkedin.com/in/harrabi-yosri-735622291/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/></a>
