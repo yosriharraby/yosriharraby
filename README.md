@@ -48,7 +48,8 @@
 
 ## 📈 GitHub Contribution Graph
 
-[![yosriharraby's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yosriharraby&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![yosriharraby's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yosriharraby&theme=react-dark&hide_border=true)
+
 
 
 ---
