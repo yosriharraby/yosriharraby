@@ -44,9 +44,12 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=contest)
 
-### 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark)
+
+## 📈 GitHub Contribution Graph
+
+[![yosriharraby's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yosriharraby&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
