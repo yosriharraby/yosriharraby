@@ -15,22 +15,23 @@
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="80" height="80"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
-  
-   <img src="https://axiomq.com/wp-content/uploads/2021/12/dot-net_.jpg" alt=".Net" width="80" height="80"/>
-   
-  <img src="https://cdn.wallpapersafari.com/87/57/VKE8r0.jpg" alt="Node Js" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80" style="margin: 10px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80" style="margin: 10px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="80" height="80" style="margin: 10px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80" height="80" style="margin: 10px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin: 10px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80" style="margin: 10px;"/>
+
+  <img src="https://axiomq.com/wp-content/uploads/2021/12/dot-net_.jpg" alt=".Net" width="80" height="80" style="margin: 10px;"/>
+
+  <img src="https://cdn.wallpapersafari.com/87/57/VKE8r0.jpg" alt="Node Js" width="80" height="80" style="margin: 10px;"/>
 </p>
+
 
 ### 📊 GitHub Stats
 
