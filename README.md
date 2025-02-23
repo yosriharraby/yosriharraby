@@ -6,7 +6,7 @@
 - 🔭 I’m a passionate developer focused on programming and problem-solving.
 - 🌱 I’m currently working as a software developer with [Your Company].
 - 🚀 I’m currently learning Angular / Spring Boot / Docker / Python / DevOps.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [your.email@example.com](mailto:yosriharrabi92@gmail.com)
 
 ### 🌐 Connect with me:
 <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/></a>
