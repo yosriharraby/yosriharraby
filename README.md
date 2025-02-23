@@ -47,8 +47,8 @@
 
 
 ## 📈 GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosriharraby&theme=react-dark)
 
-![yosriharraby's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yosriharraby&theme=react-dark&hide_border=true)
 
 
 
