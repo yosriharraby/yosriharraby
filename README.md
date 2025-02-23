@@ -1,17 +1,16 @@
-<<<<<<< HEAD
 ### 👋 About Me
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m a passionate developer focused on programming and problem-solving.
-- 🌱 I’m currently working as a software developer with [Your Company].
-- 🚀 I’m currently learning Angular / Spring Boot / Docker / Python / DevOps.
+- 🌱 I’m currently studying Software Engineering at TEK-UP university.
+- 🚀 I’m currently learning Angular / Spring Boot / .NET / Node JS / Python / Docker / Devops .
 - 📫 How to reach me: [your.email@example.com](mailto:yosriharrabi92@gmail.com)
 
 ### 🌐 Connect with me:
-<a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/></a>
+<a href="[https://www.linkedin.com/in/harrabi-yosri-735622291/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/></a>
 <a href="https://twitter.com/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="60" height="60"/></a>
-<a href="https://facebook.com/yourprofile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="60" height="60"/></a>
+<a href="https://www.facebook.com/yosri.harrabi.9/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="60" height="60"/></a>
 
 ### 🛠️ Skills
 
@@ -26,9 +25,9 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&icon_color=ff79c6)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosriharraby&show_icons=true&theme=dark&icon_color=ff79c6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosriharraby&layout=compact&theme=dark)
 
 ### 💻 LeetCode Stats
 
