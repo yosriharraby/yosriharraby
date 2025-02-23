@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
    <img src="https://axiomq.com/wp-content/uploads/2021/12/dot-net_.jpg" alt=".Net" width="80" height="80"/>
+  <img src="https://cdn.wallpapersafari.com/87/57/VKE8r0.jpg" alt="Node Js" width="80" height="80"/>
 </p>
 
 ### 📊 GitHub Stats
@@ -59,4 +60,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 6096d12c45a81f1d65f26fcbe6992a3651fc4598
+
+Zigg Zoldyck...🔥
