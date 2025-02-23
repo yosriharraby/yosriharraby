@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 👋 About Me
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
@@ -41,3 +42,21 @@
 
 *⚡ Fun fact:* I love solving complex problems and constantly learning new technologies!
 
+=======
+## Hi there 👋
+
+<!--
+**yosriharraby/yosriharraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 6096d12c45a81f1d65f26fcbe6992a3651fc4598
