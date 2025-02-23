@@ -56,8 +56,7 @@
 
 *⚡ Fun fact:* I love solving complex problems and constantly learning new technologies!
 
-=======
-## Hi there 👋
+
 
 <!--
 **yosriharraby/yosriharraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
